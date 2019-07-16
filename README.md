@@ -1,5 +1,5 @@
 # Documentaion
-(CDK)[[https://docs.aws.amazon.com/cdk/latest/guide/home.html]]
+[CDK](https://docs.aws.amazon.com/cdk/latest/guide/home.html)
 
 # Useful commands
 
